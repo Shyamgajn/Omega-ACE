@@ -103,7 +103,7 @@ The course spans several months, covering a structured set of topics. Every week
 - **Applications of Union-Find** (Cycle Detection, Connected Components)  
 
 ---  
-Each week, study materials will be shared for a particular topic, and an **online contest** will be conducted at the end of the week. Stay active, practice diligently, and challenge yourself!  
+
 
 🚀 **Join Omega and embark on a journey to conquer Data Structures & Algorithms!**
 
