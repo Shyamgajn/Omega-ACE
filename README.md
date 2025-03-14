@@ -109,7 +109,7 @@ And many more exciting topics that provide insightful intuition for people.
 
 JOIN OUR WHATSAPP COMMUNITY ASAP!!! 
 
-#contact
-##*Harish Narasimhan K* - *126003102@sastra.ac.in*
-##*Sharon Joe* - **
+# CONTACT
+## *Harish Narasimhan K* - *126003102@sastra.ac.in*
+## *Sharon Joe* - *126015104@sastra.ac.in*
 
