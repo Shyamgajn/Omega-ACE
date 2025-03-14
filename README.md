@@ -103,7 +103,13 @@ The course spans several months, covering a structured set of topics. Every week
 - **Applications of Union-Find** (Cycle Detection, Connected Components)  
 
 ---  
-
+And many more exciting topics that provide insightful intuition for people.
 
 🚀 **Join Omega and embark on a journey to conquer Data Structures & Algorithms!**
+
+JOIN OUR WHATSAPP COMMUNITY ASAP!!! 
+
+#contact
+##*Harish Narasimhan K* - *126003102@sastra.ac.in*
+##*Sharon Joe* - **
 
