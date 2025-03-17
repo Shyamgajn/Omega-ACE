@@ -7,8 +7,8 @@
 - **Competitive programming challenges** – Curated problem sets to sharpen problem-solving skills.  
 - **Resources, notes, and problem sets** – Well-organized materials to accelerate learning.  
 - **Community-driven discussions and guidance** – Collaborate, ask questions, and grow together.  
-- **Weekly coding contests** – Regular challenges to test and improve skills.   
-- **Mentorship & support** – Guidance from experienced coders and mentors.  
+- **BiWeekly coding contests** – Perfectly crafted contests to test your skills.   
+
 
 ## 📌 How to Get Started  
 1. Join our OMEGA Community.  
@@ -18,7 +18,7 @@
 
 ## 🌟 Get Involved  
 Contribute to the repository, share resources, and help others grow.  
-Together, we build the next generation of coding prodigies!  
+
 
 ## 📚 Course Structure  
 The course spans several months, covering a structured set of topics. Every week, learning materials will be posted, followed by an **online contest** at the end of the week to reinforce learning through problem-solving. The topics covered are as follows:  
