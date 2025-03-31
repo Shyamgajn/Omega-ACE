@@ -9,7 +9,7 @@ In a cricket team,the team manager's jersey number should be a BRO-Prime Number 
 - This question is adapted from the T-Prime Number Question from codeforces. <br>
 https://codeforces.com/problemset/problem/230/B
 ## APPROACH
-- BRO-prime number is defined as a number that has exactly three distinct positive divisors. The only numbers that satisfy this condition are squares of prime numbers.We use this logic to solve this question.
+- BRO-prime number is defined as a number that has exactly three distinct positive divisors. Numbers that satisfy this condition are squares of prime numbers.We use this logic to solve this question.
 - We use the sieve of eratosthenes method to find the prime numbers from 2 to the root of maximum of all the jersey numbers provided.
 - We take each number of the array of jersey numbers provided and check whether the number is a perfect square number and whether the root is a prime number, if this condition satisfies then number is a BRO PRIME NUMBER
 ## SOLUTION
